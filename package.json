@@ -1,0 +1,20 @@
+{
+  "name": "QuadTreeTS",
+  "version": "1.0.0",
+  "description": "QuadTree algorithm implementation based on CodeTrain implementation (https://www.youtube.com/watch?v=OJxEcs0w_kE&amp;t=355s).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinics/QuadTreeTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinics/QuadTreeTS/issues"
+  },
+  "homepage": "https://github.com/vinics/QuadTreeTS#readme"
+}
