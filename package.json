@@ -18,7 +18,5 @@
   },
   "homepage": "https://github.com/vinics/QuadTreeTS#readme",
   "devDependencies": {
-    "ts-node-dev": "^1.1.8",
-    "typescript": "^4.3.5"
   }
 }
