@@ -17,6 +17,8 @@
     "url": "https://github.com/vinics/QuadTreeTS/issues"
   },
   "homepage": "https://github.com/vinics/QuadTreeTS#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "p5": "^1.4.0"
   }
 }
